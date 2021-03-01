@@ -1,2 +1,2 @@
-# Analog-circuit
-Analog circuit class materials of CUC
+# 模拟电路
+中国传媒大学课程《模拟电路》课件、笔记、复习资料以及相关书籍
